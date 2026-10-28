@@ -26,7 +26,7 @@ bash
    cd Sistema-de-estante-de-livros
 Execute o programa:
 bash
-   python estante.py
+  estante-livros.py
 
 Em alguns sistemas (Linux e macOS), o comando pode ser python3 estante.py.
 
@@ -102,8 +102,6 @@ Abra um Pull Request
 Ou, se preferir, é só abrir uma Issue contando o que você achou.
 
 👤 Autor
-
-Vitor Mengue Projeto desenvolvido em grupo (Grupo 9) como trabalho de faculdade.
 
 GitHub: @menguevtr
 
